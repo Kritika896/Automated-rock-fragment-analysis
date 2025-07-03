@@ -1,6 +1,7 @@
 #  Automated Rock Fragment Analyzer & Sieve Gradation Tool
 
 An end-to-end AI-powered tool for automating the detection, measurement, and analysis of rock fragments using image processing techniques. The app is built using **Streamlit**, **OpenCV**, **NumPy**, and **Pandas**, providing a highly interactive and user-friendly interface for mining engineers, researchers, and geologists.
+![mainpage](./images/mainpage.jpg)
 
 ---
 
@@ -38,8 +39,9 @@ The goal of this project is to automate the **rock fragmentation analysis proces
 - **Output**: Annotated image and contour analysis table.
 
 ** Screenshot: Original + Contoured Image**  
-![Step 1 - Contour Analysis](./images/step1_contour_analysis.png)
-
+![Step 1 - Contour Analysis](./images/step1.jpg)
+![Step 1 - Contour Analysis](./images/step1a.jpg)
+![Step 1 - Contour Analysis](./images/step1b.jpg)
 ---
 
 ###  Step 2: Data Extraction
@@ -54,7 +56,9 @@ The goal of this project is to automate the **rock fragmentation analysis proces
 - **Output**: Downloadable CSV containing all data.
 
 ** Screenshot: Extracted Data Table**  
-![Step 2 - Data Extraction](./images/step2_data_extraction.png)
+![Step 2 - Data Extraction](./images/step2.jpg)
+![Step 2 - Data Extraction](./images/step2a.jpg)
+
 
 ---
 
@@ -71,7 +75,7 @@ The goal of this project is to automate the **rock fragmentation analysis proces
 - **Output**: Gradation curve, analysis table, downloadable Excel report.
 
 **📸 Screenshot: Gradation Curve**  
-![Step 3 - Gradation Curve](./images/step3_gradation_curve.png)
+![Step 3 - Gradation Curve](./images/step3.jpg)
 
 ---
 
@@ -81,6 +85,7 @@ The goal of this project is to automate the **rock fragmentation analysis proces
 - ✅ CSV file containing contour-based measurements.
 - ✅ Excel file with contour data + gradation summary.
 - ✅ Gradation curve plot (plotted inline).
+![result](./images/result.jpg)
 
 ---
 
