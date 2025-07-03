@@ -1,7 +1,7 @@
 #  Automated Rock Fragment Analyzer & Sieve Gradation Tool
 
 An end-to-end AI-powered tool for automating the detection, measurement, and analysis of rock fragments using image processing techniques. The app is built using **Streamlit**, **OpenCV**, **NumPy**, and **Pandas**, providing a highly interactive and user-friendly interface for mining engineers, researchers, and geologists.
-![mainpage](./images/mainpage.jpg)
+
 
 ---
 
